@@ -95,4 +95,4 @@ C:\Users\iluch\source\repos\ProfileSystem\ProfileSystem\bin\EntityFramework.dll
 C:\Users\iluch\source\repos\ProfileSystem\ProfileSystem\bin\EntityFramework.SqlServer.dll
 C:\Users\iluch\source\repos\ProfileSystem\ProfileSystem\bin\EntityFramework.xml
 C:\Users\iluch\source\repos\ProfileSystem\ProfileSystem\bin\EntityFramework.SqlServer.xml
-C:\Users\iluch\source\repos\ProfileSystem\ProfileSystem\obj\Debug\ProfileSystem.csprojAssemblyReference.cache
+C:\Users\iluch\source\repos\ProfileSystem\ProfileSystem\bin\XmlDocument.xml
